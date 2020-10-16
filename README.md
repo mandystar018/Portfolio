@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website is a Portfolio Landing Page. Here you can find my about my education and some of my personal pictures while I was traveling to Southeast Asia, also you can find a list of different work I been working while been at Epicodus. You can see the live version of the project right here:_
+_This website is a Portfolio Landing Page. Here you can find my about my education and some of my personal pictures while I was traveling to Southeast Asia, also you can find a list of different work I been working while been at Epicodus. You can see the live version of the project right here: https://mandystar018.github.io/Portfolio/_
 
 ## Setup/Installation Requirements
 
@@ -18,7 +18,7 @@ _This website is a Portfolio Landing Page. Here you can find my about my educati
 
 ## Known Bugs
 
-_No bugs known at the moment_
+_When you use the mobile version the paragraph in about doesn't expand. Gh-pages is not showing picture of Mandy in about me section._
 
 ## Support and contact details
 
