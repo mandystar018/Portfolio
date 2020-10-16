@@ -55,6 +55,7 @@ h2, li{
 }
 
 #education, #projects {
+  padding-bottom: 15px;
   color:rgb(65, 73, 109);
 }
 
