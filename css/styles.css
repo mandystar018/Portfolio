@@ -25,6 +25,14 @@
   padding: 1rem 1rem;
 }
 
+.nav li a {
+  color:rgb(216, 56, 108);
+}
+
+ol li a {
+  color: rgb(99, 52, 178);
+}
+
 .myName {
   text-align: center;
   font-size: 100px;
