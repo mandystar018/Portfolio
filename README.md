@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website is a Portfolio Landing Page. Here you can find my about my education and some of my personal pictures while I was traveling to Southeast Asia, also you can find a list of different work I been working while been at Epicodus. You can see the live version of the project right here: _
+_This website is a Portfolio Landing Page. Here you can find my about my education and some of my personal pictures while I was traveling to Southeast Asia, also you can find a list of different work I been working while been at Epicodus. You can see the live version of the project right here:_
 
 ## Setup/Installation Requirements
 

@@ -8,15 +8,20 @@
   padding-left: 5%;
   padding-right: 5%;
 }
+/*-------Navegation Bar-------*/
+.nav {
+  padding-left: 30%;
+  padding-right: 20%;
+}
+
+.nav-link{
+  padding: 1rem 1rem;
+}
 
 .myName {
   text-align: center;
   font-size: 100px;
   color: whitesmoke;
-}
-
-ul.nav {
-  
 }
 
 #aboutMe {
@@ -44,4 +49,16 @@ img {
   color:transparent;
   -webkit-background-clip: text;
   background-clip: text;
+}
+
+.line {
+  border-top: 2px solid #BFC9CA;
+  margin-top: 40px;
+  margin-left: 130px;
+  margin-right: 130px;
+  padding-bottom: 5%;
+}
+
+h2 {
+  text-align: center;
 }
