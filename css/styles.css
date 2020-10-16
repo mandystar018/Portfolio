@@ -7,6 +7,9 @@
   padding-top: 5%;
   padding-left: 5%;
   padding-right: 5%;
+  background-image: url("https://newevolutiondesigns.com/images/freebies/colorful-background-1.jpg");
+  background-size: cover;
+
 }
 /*-------Navegation Bar-------*/
 .nav {
@@ -22,6 +25,15 @@
   text-align: center;
   font-size: 100px;
   color: whitesmoke;
+  font-family: 'Fredoka One', cursive;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  font-family: 'Fredoka One', cursive;
 }
 
 #aboutMe {
