@@ -1,3 +1,37 @@
+*{
+  box-sizing: border-box;
+}
+
+.banner {
+  background-color: rgb(229, 236, 236);
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.myName {
+  text-align: center;
+  font-size: 100px;
+  color: whitesmoke;
+}
+
+#aboutMe {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+img {
+  width: 500px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
 .rainbow {
   background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
   background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
