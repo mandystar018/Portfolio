@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 
-.background {
+/* .background {
   background-color:white;
-}
+} */
 
 .banner {
   background-color: rgb(229, 236, 236);
@@ -96,4 +96,10 @@ a {
 
 h2 {
   text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .paragraph {
+    width: 100%;
+  }
 }
